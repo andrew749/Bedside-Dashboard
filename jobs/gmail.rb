@@ -45,8 +45,8 @@ class Object
 end
 
 SCHEDULER.every '1m', first_in: 0 do |job|
-    username = 'andrewcod749@gmail.com'
-    password = 'iinvrqbfutbwzyid'
+    username = ''
+    password = ''
     gmail = Gmail.new(username, password)
 
     puts "Loading emails"
