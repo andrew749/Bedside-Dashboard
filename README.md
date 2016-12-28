@@ -2,7 +2,7 @@
 
 A simple dashboard that I currently use on a tablet at my bedside.
 
-![Bedside Dashboard](screenshot.png "Bedside Dashboard")
+![Bedside Dashboard](screenshot.png)
 
 ## Install
 
