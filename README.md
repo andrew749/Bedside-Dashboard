@@ -1,5 +1,9 @@
 # Bedside Dashboard
 
+A simple dashboard that I currently use on a tablet at my bedside.
+
+![Bedside Dashboard](screenshot.png "Bedside Dashboard")
+
 ## Install
 
 1. Install the dashing ruby gem `gem install dashing`
