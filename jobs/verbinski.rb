@@ -3,7 +3,7 @@ require 'net/https'
 require 'json'
 
 # Forecast API Key from https://developer.forecast.io
-forecast_api_key = "718cb2a7a10ed0e84c2a4153ba99c8ea"
+forecast_api_key = ""
 
 # Latitude, Longitude for location
 forecast_location_lat = "43.464414"
